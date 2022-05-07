@@ -43,10 +43,10 @@ The sample_values as the marker size.
 The otu_ids as the marker colors.
 The otu_labels as the hover-text values.
 
-Deliverable 3 Instructions
+Deliverable 3 
 Using your knowledge of JavaScript, Plotly, and D3.js, create a gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
 
-Deliverable 4 Instructions
+Deliverable 4 
 Use your knowledge of HTML and Bootstrap to customize the webpage for your dashboard.
 
 Customize your dashboard with three of the following:
